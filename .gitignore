@@ -1,0 +1,3 @@
+pkgbuilds/*/src
+pkgbuilds/*/pkg
+pkgbuilds/*/*.tar.xz
